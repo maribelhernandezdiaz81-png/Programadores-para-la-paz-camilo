@@ -1,0 +1,6 @@
+1 buscar la inforamacion
+2 organizar la informacion
+3 verificar la informacion
+4 verificar la confiabilidad de la publicacion
+5 verificar el sitio dw donde la publican
+6 certificar y publicar
